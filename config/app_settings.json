@@ -1,0 +1,18 @@
+{
+  "app_name": "Pro DC Reader PDF Editor",
+  "version": "1.0",
+  "platform": ["windows"],
+  "features": [
+    "read", "edit", "convert", "merge", "split",
+    "ocr", "compress", "sign", "fill", "annotate"
+  ],
+  "supported_formats": {
+    "input":  [".pdf", ".docx", ".xlsx", ".pptx", ".jpg", ".png", ".tiff"],
+    "output": [".pdf", ".docx", ".xlsx", ".pptx", ".jpg", ".png", ".txt"]
+  },
+  "ui": {
+    "theme": "auto",
+    "language": ["en", "ru", "es", "fr", "de", "zh"],
+    "toolbar": "ribbon"
+  }
+}
